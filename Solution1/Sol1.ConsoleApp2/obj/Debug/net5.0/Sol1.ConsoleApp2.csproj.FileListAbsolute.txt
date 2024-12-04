@@ -1,0 +1,16 @@
+C:\Users\ayesh\MyWork\learn_C#\temp\Solution1\Sol1.ConsoleApp2\bin\Debug\net5.0\Sol1.ConsoleApp2.exe
+C:\Users\ayesh\MyWork\learn_C#\temp\Solution1\Sol1.ConsoleApp2\bin\Debug\net5.0\Sol1.ConsoleApp2.deps.json
+C:\Users\ayesh\MyWork\learn_C#\temp\Solution1\Sol1.ConsoleApp2\bin\Debug\net5.0\Sol1.ConsoleApp2.runtimeconfig.json
+C:\Users\ayesh\MyWork\learn_C#\temp\Solution1\Sol1.ConsoleApp2\bin\Debug\net5.0\Sol1.ConsoleApp2.runtimeconfig.dev.json
+C:\Users\ayesh\MyWork\learn_C#\temp\Solution1\Sol1.ConsoleApp2\bin\Debug\net5.0\Sol1.ConsoleApp2.dll
+C:\Users\ayesh\MyWork\learn_C#\temp\Solution1\Sol1.ConsoleApp2\bin\Debug\net5.0\Sol1.ConsoleApp2.pdb
+C:\Users\ayesh\MyWork\learn_C#\temp\Solution1\Sol1.ConsoleApp2\obj\Debug\net5.0\Sol1.ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayesh\MyWork\learn_C#\temp\Solution1\Sol1.ConsoleApp2\obj\Debug\net5.0\Sol1.ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\ayesh\MyWork\learn_C#\temp\Solution1\Sol1.ConsoleApp2\obj\Debug\net5.0\Sol1.ConsoleApp2.AssemblyInfo.cs
+C:\Users\ayesh\MyWork\learn_C#\temp\Solution1\Sol1.ConsoleApp2\obj\Debug\net5.0\Sol1.ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\ayesh\MyWork\learn_C#\temp\Solution1\Sol1.ConsoleApp2\obj\Debug\net5.0\Sol1.ConsoleApp2.sourcelink.json
+C:\Users\ayesh\MyWork\learn_C#\temp\Solution1\Sol1.ConsoleApp2\obj\Debug\net5.0\Sol1.ConsoleApp2.dll
+C:\Users\ayesh\MyWork\learn_C#\temp\Solution1\Sol1.ConsoleApp2\obj\Debug\net5.0\refint\Sol1.ConsoleApp2.dll
+C:\Users\ayesh\MyWork\learn_C#\temp\Solution1\Sol1.ConsoleApp2\obj\Debug\net5.0\Sol1.ConsoleApp2.pdb
+C:\Users\ayesh\MyWork\learn_C#\temp\Solution1\Sol1.ConsoleApp2\obj\Debug\net5.0\Sol1.ConsoleApp2.genruntimeconfig.cache
+C:\Users\ayesh\MyWork\learn_C#\temp\Solution1\Sol1.ConsoleApp2\obj\Debug\net5.0\ref\Sol1.ConsoleApp2.dll

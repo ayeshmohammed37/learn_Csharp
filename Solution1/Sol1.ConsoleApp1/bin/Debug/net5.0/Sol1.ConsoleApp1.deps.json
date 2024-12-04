@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sol1.ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "Sol1.ClassLibrary1": "1.0.0"
+        },
+        "runtime": {
+          "Sol1.ConsoleApp1.dll": {}
+        }
+      },
+      "Sol1.ClassLibrary1/1.0.0": {
+        "runtime": {
+          "Sol1.ClassLibrary1.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sol1.ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sol1.ClassLibrary1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
