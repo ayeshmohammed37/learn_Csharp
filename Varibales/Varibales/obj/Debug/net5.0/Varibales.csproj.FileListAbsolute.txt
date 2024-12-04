@@ -1,0 +1,16 @@
+C:\Users\ayesh\MyWork\learn_C#\temp\Varibales\Varibales\bin\Debug\net5.0\Varibales.exe
+C:\Users\ayesh\MyWork\learn_C#\temp\Varibales\Varibales\bin\Debug\net5.0\Varibales.deps.json
+C:\Users\ayesh\MyWork\learn_C#\temp\Varibales\Varibales\bin\Debug\net5.0\Varibales.runtimeconfig.json
+C:\Users\ayesh\MyWork\learn_C#\temp\Varibales\Varibales\bin\Debug\net5.0\Varibales.runtimeconfig.dev.json
+C:\Users\ayesh\MyWork\learn_C#\temp\Varibales\Varibales\bin\Debug\net5.0\Varibales.dll
+C:\Users\ayesh\MyWork\learn_C#\temp\Varibales\Varibales\bin\Debug\net5.0\Varibales.pdb
+C:\Users\ayesh\MyWork\learn_C#\temp\Varibales\Varibales\obj\Debug\net5.0\Varibales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayesh\MyWork\learn_C#\temp\Varibales\Varibales\obj\Debug\net5.0\Varibales.AssemblyInfoInputs.cache
+C:\Users\ayesh\MyWork\learn_C#\temp\Varibales\Varibales\obj\Debug\net5.0\Varibales.AssemblyInfo.cs
+C:\Users\ayesh\MyWork\learn_C#\temp\Varibales\Varibales\obj\Debug\net5.0\Varibales.csproj.CoreCompileInputs.cache
+C:\Users\ayesh\MyWork\learn_C#\temp\Varibales\Varibales\obj\Debug\net5.0\Varibales.sourcelink.json
+C:\Users\ayesh\MyWork\learn_C#\temp\Varibales\Varibales\obj\Debug\net5.0\Varibales.dll
+C:\Users\ayesh\MyWork\learn_C#\temp\Varibales\Varibales\obj\Debug\net5.0\refint\Varibales.dll
+C:\Users\ayesh\MyWork\learn_C#\temp\Varibales\Varibales\obj\Debug\net5.0\Varibales.pdb
+C:\Users\ayesh\MyWork\learn_C#\temp\Varibales\Varibales\obj\Debug\net5.0\Varibales.genruntimeconfig.cache
+C:\Users\ayesh\MyWork\learn_C#\temp\Varibales\Varibales\obj\Debug\net5.0\ref\Varibales.dll

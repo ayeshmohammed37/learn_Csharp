@@ -1,0 +1,21 @@
+value types sotred in stack 
+
+refrense type stored in stack and heap
+
+value types vs refrence types (memory)
+heap vs stack
+pointers in c#
+
+string ==>
+	regualr concationation
+	string interpolation
+
+value types limits
+	int, sbyte, byte, short, ushort, uint, long, ulong
+	float, double, decimal
+	
+	
+var keyword and literal suffix
+	0m, 0f, 0d, 0l, 0u, 0ul
+
+dynamic keyword

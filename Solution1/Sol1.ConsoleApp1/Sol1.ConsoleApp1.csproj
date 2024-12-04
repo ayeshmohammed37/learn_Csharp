@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Sol1.Auto\Sol1.Auto.csproj" />
     <ProjectReference Include="..\Sol1.ClassLibrary1\Sol1.ClassLibrary1.csproj" />
   </ItemGroup>
 
